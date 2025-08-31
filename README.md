@@ -1,2 +1,17 @@
-# Projetos-Curso-Analise-Dados
-Repositório com projetos do curso de Análise de Dados da DIO. Aprendizado sobre manipulação e visualização de dados usando Python (Pandas, Matplotlib, Seaborn) e SQL, além de técnicas de análise exploratória e estatísticas. Ideal para quem quer se aprofundar em análise de dados.
+Análise de Dados - Curso DIO
+
+Este repositório contém os projetos e exercícios realizados durante o curso de Análise de Dados da Digital Innovation One (DIO). O foco foi aprender a manipular, visualizar e analisar dados utilizando Python, SQL e Power BI, além de aplicar técnicas estatísticas para interpretar conjuntos de dados.
+
+Tecnologias utilizadas
+
+Python
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+SQL
+
+Power BI
